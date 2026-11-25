@@ -37,4 +37,4 @@ To view or modify the site on your machine:
 - Navigate to the folder.
 - Open index.html in any web browser (Chrome, Safari, etc.).
 
-© 2025 Sunny JayaRaju. Code available for educational purposes.  
+© 2026 Sunny JayaRaju. Code available for educational purposes.  
