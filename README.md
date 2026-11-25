@@ -1,40 +1,44 @@
 # 🌐 MaveRick | Personal Portfolio
 
-**Live Site:** [https://sunnyjayaraju.github.io](https://sunnyjayaraju.github.io)
+**Live site:** [https://sunnyjayaraju.github.io](https://sunnyjayaraju.github.io)
 
-This repository contains the source code for my personal developer portfolio. It highlights my work and interests in **API Management, Apigee, and Open Source**.
-
----
-
-## 🎨 Design Philosophy
-The site features a **glassmorphism-inspired** design, maintaining a modern, minimal, and developer-focused UI.  
-JetBrains Mono is used throughout to maintain a clean, code-centric aesthetic.
+A portfolio for **SunnyJayaRaju** (MaveRick): open-source developer tooling, hands-on API gateway labs and engineering notes.
 
 ---
 
-## 🛠 Tech Stack
+## 🎨 Design
+
+- Dark and light themes with a toggle; the choice is remembered and `prefers-color-scheme` is used on a first visit.
+- Responsive layout, from a phone to a wide desktop.
+- Plain HTML and CSS: no build step, no framework, no external scripts.
+- Inter for text and JetBrains Mono for code and labels, loaded from Google Fonts.
+- Icons are inline SVG.
+
+---
+
+## 🛠 Tech stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white)
 
-- **Structure:** Semantic HTML5  
-- **Styling:** Custom CSS (Flexbox, glassmorphism, backdrop filters)  
-- **Icons:** FontAwesome 6.4  
-- **Hosting:** GitHub Pages  
+- **Structure:** semantic HTML5
+- **Styling:** custom CSS, with CSS custom properties for theming
+- **Icons:** inline SVG
+- **Hosting:** GitHub Pages
 
 ---
 
-## 🚀 Running Locally
+## 🚀 Running locally
 
-To view or modify the site on your machine:
+1. Clone the repository:
 
-1. **Clone the repository**
    ```bash
    git clone https://github.com/SunnyJayaRaju/SunnyJayaRaju.github.io.git
+   ```
 
-2. Open the file: 
-- Navigate to the folder.
-- Open index.html in any web browser (Chrome, Safari, etc.).
+2. Open `index.html` in any browser. There is nothing to install or build.
 
-© 2026 Sunny JayaRaju. Code available for educational purposes.  
+---
+
+© 2026 SunnyJayaRaju. Code available for educational purposes.
